@@ -1,0 +1,28 @@
+{
+  "faq": [
+    {
+      "question": "What is React?",
+      "answer": "React is a JavaScript library for building user interfaces, developed by Facebook."
+    },
+    {
+      "question": "How do I install React?",
+      "answer": "You can install React using Create React App: `npx create-react-app my-app`."
+    },
+    {
+      "question": "What are React hooks?",
+      "answer": "Hooks are functions that let you use state and lifecycle methods in functional components."
+    },
+    {
+      "question": "How do I manage state in React?",
+      "answer": "You can use useState for local state and Context API or Redux for global state management."
+    },
+    {
+      "question": "What is JSX?",
+      "answer": "JSX is a syntax extension for JavaScript that allows writing HTML-like code inside JavaScript files."
+    },
+    {
+      "question": "How do I pass data between components?",
+      "answer": "You can pass data using props, Context API, or state management libraries like Redux."
+    }
+  ]
+}
